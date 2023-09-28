@@ -8,7 +8,9 @@ let info = {
 contenidoStr: (contenido del archivo leído en formato string),
 
 contenidoObj: (contenido del archivo leído en formato objeto),
+
 size: (tamaño en bytes del archivo)
+
 }
 
 2) Muestre por consola el objeto info luego de leer el archivo.
