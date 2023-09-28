@@ -1,0 +1,12 @@
+{
+	"name": "tp2",
+	"version": "1.0.0",
+	"description": "TP2",
+	"main": "mac.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node ms.js"
+	},
+	"author": "Martin Lisi",
+	"license": "ISC"
+}

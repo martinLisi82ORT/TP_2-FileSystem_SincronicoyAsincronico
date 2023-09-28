@@ -1,0 +1,16 @@
+{
+	"contenidoStr": "{\n  \"name\": \"tp2\",\n  \"version\": \"1.0.0\",\n  \"description\": \"TP2\",\n  \"main\": \"mac.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\",\n    \"start\": \"node ms.js\"\n  },\n  \"author\": \"Martin Lisi\",\n  \"license\": \"ISC\"\n}",
+	"contenidoObj": {
+		"name": "tp2",
+		"version": "1.0.0",
+		"description": "TP2",
+		"main": "mac.js",
+		"scripts": {
+			"test": "echo \"Error: no test specified\" && exit 1",
+			"start": "node ms.js"
+		},
+		"author": "Martin Lisi",
+		"license": "ISC"
+	},
+	"size": 237
+}
