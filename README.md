@@ -4,7 +4,6 @@ Escribir un proyecto bajo node.js que realice las siguientes acciones:
 1) Lea el archivo package.json y declare un objeto con el siguiente formato y datos:
 
 let info = {
-
 contenidoStr: (contenido del archivo leído en formato string),
 contenidoObj: (contenido del archivo leído en formato objeto),
 size: (tamaño en bytes del archivo)
