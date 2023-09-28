@@ -27,11 +27,11 @@ negrita), donde en cada uno de ellos la lectura y escritura de archivos se hará
 
 ####  ms.js → modo sincrónico.
 
- mac.js → modo asincrónico con callbacks.
+####  mac.js → modo asincrónico con callbacks.
 
- maptc.js → modo asincrónico con promises (sintaxis then catch).
+####  maptc.js → modo asincrónico con promises (sintaxis then catch).
 
- mapaa.js → modo asincrónico con promises (sintaxis async await).
+####  mapaa.js → modo asincrónico con promises (sintaxis async await).
 
 - Para deserializar un string con contenido JSON utilizar JSON.parse (convierte string en
 object).
