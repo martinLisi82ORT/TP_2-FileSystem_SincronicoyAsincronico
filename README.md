@@ -25,7 +25,7 @@ package.json.
 - Desarrollar la solución mediante el uso de cuatro scripts con los siguientes nombres (en
 negrita), donde en cada uno de ellos la lectura y escritura de archivos se hará en:
 
- ms.js → modo sincrónico.
+####  ms.js → modo sincrónico.
 
  mac.js → modo asincrónico con callbacks.
 
