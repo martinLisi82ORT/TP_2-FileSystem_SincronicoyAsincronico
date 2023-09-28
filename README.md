@@ -19,13 +19,18 @@ size: (tamaño en bytes del archivo)
 package.json.
 
 4) Incluiya el manejo de errores.
-Aclaraciones:
+
+#### Aclaraciones:
 
 - Desarrollar la solución mediante el uso de cuatro scripts con los siguientes nombres (en
 negrita), donde en cada uno de ellos la lectura y escritura de archivos se hará en:
+
  ms.js → modo sincrónico.
+
  mac.js → modo asincrónico con callbacks.
+
  maptc.js → modo asincrónico con promises (sintaxis then catch).
+
  mapaa.js → modo asincrónico con promises (sintaxis async await).
 
 - Para deserializar un string con contenido JSON utilizar JSON.parse (convierte string en
