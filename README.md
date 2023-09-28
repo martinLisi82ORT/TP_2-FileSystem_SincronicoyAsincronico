@@ -33,10 +33,8 @@ negrita), donde en cada uno de ellos la lectura y escritura de archivos se hará
 
 ####  mapaa.js → modo asincrónico con promises (sintaxis async await).
 
-
 - Para deserializar un string con contenido JSON utilizar JSON.parse (convierte string en
 object).
-
 
 - Para serializar un objeto (convertirlo a string) y guardarlo en un archivo utilizar
 JSON.stringify. considerando usar JSON.stringify(info, null, '\t') para preservar el formato de
